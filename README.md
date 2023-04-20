@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Moral Siani
-- 👀 I’m interested in Algorithms, mainly with machine learning emphasis
-- 🌱 I’m currently learning ML and DL
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Moral Siani, looking for my first role in software development.
+- 👀 I’m interested in mathematics, science and programming 
+- 🌱 I’m currently learning theoretical and applied machine and deep learning
 - 📫 How to reach me: siani.moral@gmail.com
 
 <!---
